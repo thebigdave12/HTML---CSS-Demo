@@ -1,0 +1,47 @@
+h1, h2, h3, h4, h5, h6 {
+    background-color: beige;
+    width: 200px;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    letter-spacing: 3px;
+    font-size: 50px;
+    /* font-weight: 500; */
+}
+
+
+img {
+    /* width: 30vw; */
+    height: 30vw;
+    border: 5px dotted gold;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+}
+
+ul > li {
+    color: gold;
+}
+
+ul a {
+    color: green
+}
+
+body {
+    background-image: url(https://static.clubs.nfl.com/image/upload/packers/puvnp4kh7xqadwekj9op.jpg);
+    /* background-position: center; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: azure;
+}   
+
+button:hover {
+    background-color: aquamarine;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+
+h1 { 
+    font-family: 'Droid Sans', arial, serif; 
+}
